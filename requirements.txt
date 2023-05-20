@@ -1,0 +1,8 @@
+#packages should install
+
+Flask
+flask-ngrok
+flasgger
+regex
+pandas
+db-sqlite3
